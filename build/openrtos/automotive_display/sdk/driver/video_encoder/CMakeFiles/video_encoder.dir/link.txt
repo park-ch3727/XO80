@@ -1,0 +1,2 @@
+C:/ITEGCC_978/bin/arm-none-eabi-ar.exe qc ../../../lib/fa626/libvideo_encoder.a  CMakeFiles/video_encoder.dir/video_encoder_flower.c.obj
+C:/ITEGCC_978/bin/arm-none-eabi-ranlib.exe ../../../lib/fa626/libvideo_encoder.a

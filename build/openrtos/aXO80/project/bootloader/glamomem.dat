@@ -1,0 +1,13 @@
+info bootloader
+
+mcu castor3
+family 970
+ram_size 0x8000000
+big-endian 0
+init_script E:/Project/IT978/SW/ite_sdk/ite_sdk\sdk\target\debug\IT970A0_792Mhz_DDR3_396Mhz.txt
+outbuf_addr 0xC0
+outbuf_size_addr 0xC4
+outbuf_index_addr 0xC8
+inbuf_addr 0xFF4
+inbuf_size_addr 0xFF8
+inbuf_index_addr 0xFFC

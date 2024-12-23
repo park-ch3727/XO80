@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../openrtos/include/stdlib.h
+
+../../../sdk/include/redblack/redblack.h
+
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/redblack/redblack.c
+stddef.h
+-
+stdlib.h
+-
+redblack.h
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/redblack/redblack.h
+

@@ -1,0 +1,2 @@
+C:/ITEGCC_978/bin/arm-none-eabi-ar.exe qc ../../../lib/fa626/libqrencode.a  CMakeFiles/qrencode.dir/bitstream.c.obj CMakeFiles/qrencode.dir/mask.c.obj CMakeFiles/qrencode.dir/mmask.c.obj CMakeFiles/qrencode.dir/mqrspec.c.obj CMakeFiles/qrencode.dir/qrencode.c.obj CMakeFiles/qrencode.dir/qrinput.c.obj CMakeFiles/qrencode.dir/qrspec.c.obj CMakeFiles/qrencode.dir/rsecc.c.obj CMakeFiles/qrencode.dir/split.c.obj CMakeFiles/qrencode.dir/qrenc.c.obj
+C:/ITEGCC_978/bin/arm-none-eabi-ranlib.exe ../../../lib/fa626/libqrencode.a

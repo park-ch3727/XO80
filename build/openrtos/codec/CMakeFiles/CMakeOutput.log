@@ -1,0 +1,22 @@
+The target system is: Generic -  - 
+The host system is: Windows - 10.0.22631 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/ITEGCC_978/bin/sm32-elf-g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+/cygdrive/c/ITEGCC_978/bin/../lib/gcc/sm32-elf/5.4.0/../../../../sm32-elf/bin/ld: warning: cannot find entry symbol _start; defaulting to 00000028
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "E:/Project/IT978/SW/ite_sdk/ite_sdk/build/openrtos/codec/CMakeFiles/3.15.3/CompilerIdCXX/a.out"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+sm32-elf-gcc (ITE GNUGCC 2018-04-13 06:21:43) 5.4.0
+Copyright (C) 2015 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+

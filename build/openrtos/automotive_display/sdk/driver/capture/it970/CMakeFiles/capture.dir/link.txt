@@ -1,0 +1,2 @@
+C:/ITEGCC_978/bin/arm-none-eabi-ar.exe qc ../../../../lib/fa626/libcapture.a  CMakeFiles/capture.dir/mmp_capture.c.obj CMakeFiles/capture.dir/capture_hw.c.obj CMakeFiles/capture.dir/capture.c.obj CMakeFiles/capture.dir/cap_util.c.obj CMakeFiles/capture.dir/device_modules.c.obj CMakeFiles/capture.dir/device_modules_sec.c.obj
+C:/ITEGCC_978/bin/arm-none-eabi-ranlib.exe ../../../../lib/fa626/libcapture.a

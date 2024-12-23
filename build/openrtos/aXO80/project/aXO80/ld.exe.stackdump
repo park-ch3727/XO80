@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61186750
+eax=00000000 ebx=00000000 ecx=00000000 edx=83DB2D18 esi=8427E9E0 edi=00000001
+ebp=00512D40 esp=017AC608 program=C:\ITEGCC_978\arm-none-eabi\bin\ld.exe, pid 1875, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+00512D40  61186750 (00003A00, 00000000, 00000000, 00000001)
+End of stack trace

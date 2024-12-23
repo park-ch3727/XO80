@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../openrtos/include/stdio.h
+
+../../../openrtos/include/string.h
+
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/pyinput/HZ_input.c
+stdio.h
+-
+string.h
+-
+PY_code.h
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/pyinput/PY_code.h
+
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/pyinput/JY_code.h
+
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/pyinput/JY_input.c
+stdio.h
+-
+string.h
+-
+JY_code.h
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/pyinput/JY_code.h
+
+E:/Project/IT978/SW/ite_sdk/ite_sdk/sdk/share/pyinput/PY_code.h
+
